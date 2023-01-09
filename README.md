@@ -1,0 +1,2 @@
+# nostr_jp_translation
+Nostrプロトコルの日本語訳
