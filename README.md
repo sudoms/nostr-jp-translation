@@ -2,12 +2,16 @@
 
 このリポジトリは、[Nostr protocol]((https://github.com/nostr-protocol/nostr/)) 日本語訳の私案を置くものである。
 
-* 本リポジトリに記載されている情報の正確性は無保証であり、和訳されたプロトコルその他に基づくあらゆる行為に対して訳者は責任を追わない。
+現在読んでいる文書（冒頭説明を除く）は [nostr-protocol/nips](https://github.com/nostr-protocol/nips/) の README を和訳したものである。
 
-* 現在読んでいる文書は以下、 [nostr-protocol/nips](https://github.com/nostr-protocol/nips/) の README を和訳したものである。
-
-* さらに [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr/) にある Nostr 概要の和訳を、
+さらに [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr/) にある Nostr 概要の和訳を、
 [nostr_intro_jp.md](nostr_intro_jp.md) に置いている。
+
+NIPs の各ページは、以下からリンクされている。
+
+## 和訳に関する注意
+
+* 本リポジトリに記載されている情報の正確性は無保証であり、和訳されたプロトコルその他に基づくあらゆる行為に対して訳者は責任を追わない。
 
 * プロトコル自体は活発な改訂・追加が行われているが、和訳は 2022/12/21 現在の版に準拠している。
 訳者自身は気が向いたときにしか作業しないので、自分でアップデートしたい人は本リポジトリを CC0 でフォークしてほしい。
