@@ -1,2 +1,2 @@
-# nostr_jp_translation
+# nostr-jp-translation
 Nostrプロトコルの日本語訳
